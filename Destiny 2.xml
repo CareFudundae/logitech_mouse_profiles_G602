@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="utf-8"?>
+<profiles xmlns="http://www.logitech.com/Cassandra/2010.7/Profile">
+  <profile launchable="1" lock="1" gkeysdk="0" name="Destiny 2" gpasupported="0" lastplayeddate="2017-11-15T21:50:42" gameid="" guid="{5BEEC446-D584-498F-9ACE-0D85C35E5C81}">
+    <description></description>
+    <target path="C:\PROGRAM FILES (X86)\DESTINY 2\DESTINY2.EXE"/>
+    <signature key="" executable="" name="" value=""/>
+    <macros>
+      <macro name="Left Click" hidden="true" guid="{FF76A774-8DF8-450A-9185-44A25507EE95}" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="Left Click" hidden="false" guid="{0F2723DB-C271-4A57-9070-33F96AE9D03F}" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="leftclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="Right Click" hidden="true" guid="{3535397D-A457-461E-8953-66AEC90BC9D7}" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="Right Click" hidden="false" guid="{BDCF5837-9A8F-4F5F-BF4E-16B53F056CE3}" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="rightclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="Middle Click" hidden="true" guid="{C15DF12F-DD30-454D-AD32-4558917146E6}" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="Middle Click" hidden="false" guid="{C4AF96C2-2E2F-4BA5-A4CF-909632915CC4}" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="middleclick"/>
+        </mousefunction>
+      </macro>
+      <macro name="Forward" hidden="true" guid="{1FB572CC-7622-4916-B9CC-FD8B68FB665B}" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="forward"/>
+        </mousefunction>
+      </macro>
+      <macro name="Back" hidden="true" guid="{3E86641D-8B6D-4FD1-A313-4B7C8017E03C}" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="back"/>
+        </mousefunction>
+      </macro>
+      <macro name="Battery Level (G602)" devicecategory="Logitech.Gaming.Mouse" hidden="true" guid="{B2DBBC40-DE08-4A91-AE08-7F19F9945462}" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="batterylevel"/>
+        </mousefunction>
+      </macro>
+      <macro name="1" hidden="true" guid="{8C82EC56-AD3F-4F91-92F1-C2C45B80DEC6}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="1"/>
+        </keystroke>
+      </macro>
+      <macro name="2" hidden="true" guid="{FC267A42-3963-4984-8474-78ADCF72BDBE}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="2"/>
+        </keystroke>
+      </macro>
+      <macro name="3" hidden="true" guid="{9CC2DB3B-DEEA-4F48-BC50-76CE4F5D69D0}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="3"/>
+        </keystroke>
+      </macro>
+      <macro name="DPI Up" devicecategory="Logitech.Gaming.Mouse" hidden="true" guid="{B6D21FF8-E9BE-4F1B-8C44-9DCD6A5B475C}" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpiup"/>
+        </mousefunction>
+      </macro>
+      <macro name="DPI Down" devicecategory="Logitech.Gaming.Mouse" hidden="true" guid="{2E0CE16E-DFA2-4B04-BD72-2A11248A3320}" color="4278246655">
+        <mousefunction xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/MouseFunction">
+          <do task="dpidown"/>
+        </mousefunction>
+      </macro>
+      <macro name="jump" hidden="false" guid="{9FE2D54A-B8A9-40C3-A8DD-2642E5DCBCD3}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="SPACEBAR"/>
+        </keystroke>
+      </macro>
+      <macro name="interact" hidden="false" guid="{4FA3D2C9-3AB6-4560-9DDA-1725FD8333A5}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="E"/>
+        </keystroke>
+      </macro>
+      <macro name="reload" hidden="false" guid="{4F49B292-8663-4216-BA59-15241601EDA4}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="R"/>
+        </keystroke>
+      </macro>
+      <macro name="heavy attack" hidden="false" guid="{38C41CE0-FE77-4524-BCEB-A6A130146AC5}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="2"/>
+        </keystroke>
+      </macro>
+      <macro name="super" hidden="false" guid="{3F7B0F88-68C7-486A-91C9-543DAFEDFDFB}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F"/>
+        </keystroke>
+      </macro>
+      <macro name="save clip" hidden="false" guid="{C17E0C89-2F13-48BC-8B10-85AF0C2EED3C}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="F2"/>
+          <modifier value="LCTRL"/>
+          <modifier value="LSHIFT"/>
+        </keystroke>
+      </macro>
+      <macro name="grenade" hidden="false" guid="{466B7A2D-D137-47BA-B934-3D6F191632C3}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="Q"/>
+        </keystroke>
+      </macro>
+      <macro name="crouch (toggle)" hidden="false" guid="{6E1CD4AC-BF25-4DC4-8937-F5912E6A5893}" color="4278246655">
+        <keystroke xmlns="http://www.logitech.com/Cassandra/2010.1/Macros/Keystroke">
+          <key value="LCTRL"/>
+        </keystroke>
+      </macro>
+    </macros>
+    <assignments devicecategory="Logitech.Gaming.Mouse.G602">
+      <assignment original="false" contextid="Button1" backup="false" macroguid="{0F2723DB-C271-4A57-9070-33F96AE9D03F}" shiftstate="1"/>
+      <assignment original="false" contextid="Button2" backup="false" macroguid="{BDCF5837-9A8F-4F5F-BF4E-16B53F056CE3}" shiftstate="1"/>
+      <assignment original="false" contextid="Button3" backup="false" macroguid="{C4AF96C2-2E2F-4BA5-A4CF-909632915CC4}" shiftstate="1"/>
+      <assignment original="false" contextid="Button4" backup="false" macroguid="{466B7A2D-D137-47BA-B934-3D6F191632C3}" shiftstate="1"/>
+      <assignment original="false" contextid="Button5" backup="false" macroguid="{9FE2D54A-B8A9-40C3-A8DD-2642E5DCBCD3}" shiftstate="1"/>
+      <assignment original="false" contextid="Button6" backup="false" macroguid="{C17E0C89-2F13-48BC-8B10-85AF0C2EED3C}" shiftstate="1"/>
+      <assignment original="false" contextid="Button7" backup="false" macroguid="{38C41CE0-FE77-4524-BCEB-A6A130146AC5}" shiftstate="1"/>
+      <assignment original="false" contextid="Button8" backup="false" macroguid="{3F7B0F88-68C7-486A-91C9-543DAFEDFDFB}" shiftstate="1"/>
+      <assignment original="false" contextid="Button9" backup="false" macroguid="{6E1CD4AC-BF25-4DC4-8937-F5912E6A5893}" shiftstate="1"/>
+      <assignment original="false" contextid="Button10" backup="false" macroguid="{4FA3D2C9-3AB6-4560-9DDA-1725FD8333A5}" shiftstate="1"/>
+      <assignment original="false" contextid="Button11" backup="false" macroguid="{4F49B292-8663-4216-BA59-15241601EDA4}" shiftstate="1"/>
+    </assignments>
+    <backlight devicemodel="Logitech.Gaming.Mouse.G602">
+      <mode shiftstate="1" color="#000000"/>
+      <mode shiftstate="2" color="#000000"/>
+      <mode shiftstate="3" color="#000000"/>
+    </backlight>
+    <script>function OnEvent(event, arg)
+    OutputLogMessage("event = %s, arg = %s\n", event, arg)
+end</script>
+  </profile>
+</profiles>
